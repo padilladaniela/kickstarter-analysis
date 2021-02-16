@@ -7,6 +7,8 @@ Performing analysis on Kickstarter data to uncover trends
 ### Purpose
   The purpose of this analysis is to draw conclusions and visualiza data based of the dataset given by the client, \"Kickstarter_Challenge_.xlsx"\.
 ---
+In this challenge, I tried to help Louise understand how other campaigns did by comparing their launch dates to their fundraising goals.The goal of this challenge was to organize the information iv vearious types of tables and graphs in order to make visualize readable and present to the client. 
+
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date

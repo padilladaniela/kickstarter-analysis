@@ -5,7 +5,7 @@ Performing analysis on Kickstarter data to uncover trends
 ## Overview of Project
 
 ### Purpose
-The purpose of this analysis is to draw conclusions and visualiza data based of the dataset given by the client, \"Kickstarter_Challenge_.xlsx"\.
+  The purpose of this analysis is to draw conclusions and visualiza data based of the dataset given by the client, \"Kickstarter_Challenge_.xlsx"\.
 ---
 ## Analysis and Challenges
 

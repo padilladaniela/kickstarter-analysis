@@ -18,7 +18,7 @@ In this challenge, I tried to help Louise understand how other campaigns did by 
 - On the "Outcomes Based on Goals" graph, we can see a clear relationship between the failed and successful campaings. As teh goal gets high, failed and successful have an inversed relationship. We can also say the data from the goal ranges (1,000 to 25,000) is real and as you ask for more money you have less of a chance of succeeding. We can also notice that most plays are launched with a goal of less than 20,000. Plays campaigns might failed but they are never canceled.
 
 ### Challenges and Difficulties Encountered
-- Some of the challenges encountered in the data is that for many of the campaigns goals, there is not enough data for it to be valuable.
+- Some of the challenges encountered in the data is that for many of the campaigns goals, there is not enough data for it to be valuable. The data we can offer is limited to the graphs. We could run some other graphs, to find if all other campaigns are fall the same way in Decemeber and possibly find a correlation.
 
   ##Data Visualizations
   1) ![Theater Outcomes vs Launch] (resources\Theater_Outcomes_vs_Launch.png]

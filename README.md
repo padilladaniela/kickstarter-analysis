@@ -24,4 +24,4 @@ In this challenge, I tried to help Louise understand how other campaigns did by 
   1) ![Theater Outcomes vs Launch] (resources\Theater_Outcomes_vs_Launch.png]
   2) ![Outcomes vs Goals] (resources\Outcomes_vs_Goals.png]
 
-
+![](main/Theater_Outcomes_vs_Launch.png)

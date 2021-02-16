@@ -21,7 +21,7 @@ In this challenge, I tried to help Louise understand how other campaigns did by 
 - Some of the challenges encountered in the data is that for many of the campaigns goals, there is not enough data for it to be valuable.
 
   ##Data Visualizations
-  1) i. ![Theater Outcomes vs Launch] (resources\Theater_Outcomes_vs_Launch.png]
-  2) ii. ![Outcomes vs Goals] (resources\Outcomes_vs_Goals.png]
+  1) ![Theater Outcomes vs Launch] (resources\Theater_Outcomes_vs_Launch.png]
+  2) ![Outcomes vs Goals] (resources\Outcomes_vs_Goals.png]
 
 

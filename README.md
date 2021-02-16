@@ -22,5 +22,5 @@ In this challenge, I tried to help Louise understand how other campaigns did by 
 
   ##Data Visualizations
   1) ![Theater Outcomes vs Launch](main/Theater_Outcomes_vs_Launch.png)
-  2) ![Outcomes vs Goals] (main/Otucomes_vs_Goals.png)
+  2) ![Outcomes vs Goals](main/Otucomes_vs_Goals.png)
  

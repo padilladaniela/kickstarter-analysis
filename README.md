@@ -1,5 +1,5 @@
 # kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends
+Performing analysis on Kickstarter data to uncover trends.
 # Kickstarting with Excel
 
 ## Overview of Project
@@ -12,6 +12,7 @@ In this challenge, I tried to help Louise understand how other campaigns did by 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+- After creating the graph, we are able to visually find the trends in the date. From the graph, we can tell December is the worst time to launch a campaign, since almost 50% failed. Meanwhile, May and June are the best times to launch. All the other months are about the same amounts. 
 
 ### Analysis of Outcomes Based on Goals
 

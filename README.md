@@ -21,6 +21,6 @@ In this challenge, I tried to help Louise understand how other campaigns did by 
 - Some of the challenges encountered in the data is that for many of the campaigns goals, there is not enough data for it to be valuable. The data we can offer is limited to the graphs. We could run some other graphs, to find if all other campaigns fall the same way in Decemeber and possibly find a correlation. We could also build other graphs to find if during May and June theater is competing with other campaigns; a hypothesis could be that it does so well during these two months because they are not competing against any other campaigns.
 
   ##Data Visualizations
-  1) ![Theater Outcomes vs Launch](main/Theater_Outcomes_vs_Launch.png)
-  2) ![Outcomes vs Goals](main/Otucomes_vs_Goals.png)
+  1) ![][Theater Outcomes vs Launch](main/Theater_Outcomes_vs_Launch.png)
+  2) ![][Outcomes vs Goals](main/Otucomes_vs_Goals.png)
  
